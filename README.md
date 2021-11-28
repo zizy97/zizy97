@@ -18,7 +18,7 @@
 
 ### Profile Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=zizy97&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=zizy97&&show_icons=true&title_color=000046&icon_color=23074d&text_color=0F2027&bg_color=E94057">
 
 ### Visitors Count
 
