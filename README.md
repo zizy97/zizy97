@@ -6,10 +6,10 @@
 - 🤔 I’m looking for help with Learning new Technologies
 - 💬 Ask me about Java , Spring boot , React , Python , C 
 - ⚡ Daily Route: 
--   while(life.status != died){
--     Coding -> Eating -> Sleeping -> Coding
--   }
-- 
+   while(life.status != died){
+     Coding -> Eating -> Sleeping -> Coding
+   }
+
 
 ### Profile Stats
 
