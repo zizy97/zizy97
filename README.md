@@ -1,8 +1,8 @@
 ### Hi there I'm Supun Wijegunwardhana 👋
 
-- 🔭 I’m currently Studying on University of Ruhuna,SriLanka
-- 🌱 I’m currently learning about the facts to be packed
-- 👯 I’m looking to collaborate on UncaughtExceptions 🤫
+- 🤓 I’m currently Studying on University of Ruhuna,SriLanka
+- 👨‍🏫 I’m currently learning about the facts to be packed 😎
+- 👯 I’m looking to collaborate on Exceptions 🤫
 - 🧐 I’m looking for help with Learning new Technologies
 - 🙋‍♂️ Ask me about : Java , Spring boot , React , Python , C 
  
