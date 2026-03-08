@@ -62,9 +62,9 @@ Currently working on large-scale SaaS platforms, contributing to **frontend arch
 
 ## 📊 GitHub Stats
 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizy97&show_icons=true&title_color=0f172a&icon_color=2563eb&text_color=334155&bg_color=f8fafc)
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizy97&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizy97&layout=compact&title_color=0f172a&text_color=334155&bg_color=f8fafc)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zizy97&layout=compact&theme=tokyonight)
 
 ---
 
