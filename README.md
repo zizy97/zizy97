@@ -60,23 +60,9 @@ Currently working on large-scale SaaS platforms, contributing to **frontend arch
 
 ---
 
-## 📊 GitHub Stats
-
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizy97&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zizy97&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zizy97&theme=default&ring=2563eb&fire=2563eb&currStreakLabel=0f172a)
-
----
-
-## 👀 Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/zizy97/count.svg)
 
 ---
 
