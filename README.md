@@ -1,25 +1,57 @@
-### Hi there I'm Supun Wijegunwardhana 👋
+Hi 👋 I'm Supun Wijegunawardhana
 
-- 🤓 I’m currently Studying on University of Ruhuna,SriLanka
-- 👨‍🏫 I’m currently learning about the facts to be packed 😎
-- 👯 I’m looking to collaborate on Exceptions 🤫
-- 🧐 I’m looking for help with Learning new Technologies
-- 🙋‍♂️ Ask me about : Java , Spring boot , React , Python , C 
- 
-<img src="https://img.icons8.com/color/80/000000/spring-logo.png"/> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/80/000000/flutter.png"/>  <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>  <img src="https://img.icons8.com/plasticine/80/000000/react.png"/>
+Senior Frontend Engineer | Associate Tech Lead | SaaS Platform Builder
 
-- ⚡ Daily Route: 
-  ***while(life.status != died){
-     Coding -> Eating -> Sleeping -> Coding
-   }***
-   
-<img src="https://img.icons8.com/external-soft-fill-juicy-fish/100/000000/external-coding-coding-and-development-soft-fill-soft-fill-juicy-fish-2.png"/> <img src="https://img.icons8.com/plasticine/100/000000/arrow.png"/> <img src="https://img.icons8.com/external-konkapp-flat-konkapp/100/000000/external-eating-stay-at-home-konkapp-flat-konkapp.png"/> <img src="https://img.icons8.com/plasticine/100/000000/arrow.png"/> <img src="https://img.icons8.com/external-itim2101-flat-itim2101/100/000000/external-sleeping-time-management-itim2101-flat-itim2101.png"/> <img src="https://img.icons8.com/plasticine/100/000000/arrow.png"/> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/100/000000/external-coding-coding-and-development-soft-fill-soft-fill-juicy-fish-2.png"/>
+I’m a passionate software engineer focused on building scalable, high-performance frontend applications and modern SaaS platforms. I enjoy designing clean UI architectures, reusable component systems, and performant user experiences.
 
+Currently working on large-scale SaaS platforms including Club Arena and Endely while continuously exploring modern frontend technologies and cloud-native development.
 
-### Profile Stats
+🚀 What I Do
 
-<img src="https://github-readme-stats.vercel.app/api?username=zizy97&&show_icons=true&title_color=000046&icon_color=23074d&text_color=0F2027&bg_color=E94057">
+Build scalable frontend architectures
 
-### Visitors Count
+Develop high-performance web applications
 
-<img align="left" src = "https://profile-counter.glitch.me/zizy97/count.svg" alt ="Loading">
+Design reusable UI component systems
+
+Integrate frontend with microservices and APIs
+
+Improve application performance and user experience
+
+Lead frontend engineering practices and code quality
+
+🛠 Tech Stack
+Frontend
+
+React • Angular • Next.js • Flutter • TypeScript • JavaScript • Tailwind CSS
+
+Backend (Working Knowledge)
+
+.NET • Spring Boot • Node.js • REST APIs • Microservices
+
+DevOps & Cloud
+
+Azure • AWS • Docker • Kubernetes • CI/CD • Azure DevOps
+
+Databases
+
+PostgreSQL • MySQL • MSSQL • MongoDB
+
+🧠 Currently Exploring
+
+Advanced Frontend Architecture
+
+Micro-frontend systems
+
+High performance UI optimization
+
+Cloud-native SaaS platforms
+
+AI-assisted development workflows
+
+📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=zizy97&show_icons=true&theme=default" />
+👀 Visitors
+<img src="https://profile-counter.glitch.me/zizy97/count.svg" />
+
+⭐ I enjoy building products that combine clean architecture, performance, and great user experience.
